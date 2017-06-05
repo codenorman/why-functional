@@ -1,13 +1,3 @@
-
-// R.compose(
-//     filterRainFree,
-//     filterTmp,
-//     filterWindSpeed,
-//     filterWindDir
-// )
-
-// Immutability
-
 let globalConfig = {
     name: 'Global',
     pref1: 'pref1',

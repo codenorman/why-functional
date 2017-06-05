@@ -25,5 +25,4 @@ let total = R.compose(
 );
 
 let result = total(shoppingCart);
-
 console.log('total:', result);
