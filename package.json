@@ -1,0 +1,23 @@
+{
+  "name": "why-functional",
+  "version": "1.0.0",
+  "description": "Examples of why use functional programming",
+  "main": "example-1.js",
+  "dependencies": {
+    "ramda": "^0.24.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codenorman/why-functional.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codenorman/why-functional/issues"
+  },
+  "homepage": "https://github.com/codenorman/why-functional#readme"
+}
